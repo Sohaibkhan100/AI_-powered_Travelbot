@@ -1,0 +1,446 @@
+Query,Intent
+I need a flight to Paris.,Flight_search
+Book a hotel in London.,Hotel_search
+Airport transfer to my hotel.,Transfers
+Show me tours in Rome.,Tours
+I need a flight and a hotel in NY.,Combined_searches
+Find cheap hotels in Paris.,Hotel_search
+Book a flight to London tomorrow.,Flight_search
+Arrange airport transfer.,Transfers
+What tours are available in Rome?,Tours
+What are the best tours in Dubai?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight and hotel in Paris.,Combined_searches
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Rome next week.,Flight_search
+Book a transfer to the hotel.,Transfers
+Show me popular tours in London.,Tours
+I need a flight and hotel in Amsterdam.,Combined_searches
+I'm looking for a budget hotel in Paris.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private car transfer.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight and hotel in Paris.,Combined_searches
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Rome next week.,Flight_search
+Book a transfer to the hotel.,Transfers
+Show me popular tours in London.,Tours
+I need a flight and hotel in Amsterdam.,Combined_searches
+I'm looking for a budget hotel in Paris.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private car transfer.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight from London to Paris.,Flight_search
+"Book a hotel in London for 5 nights, budget under $100.",Hotel_search
+Airport transfer from Heathrow Airport to City Center.,Transfers
+"Show me tours in Rome for 2 days, budget between $100 and $300.",Tours
+"I need a flight and a hotel in NY from 10th July to 15th July, budget under $1500.",Combined_searches
+"Find cheap hotels in Paris, budget below $80.",Hotel_search
+"Book a flight from New York to London tomorrow, budget under $500.",Flight_search
+Arrange airport transfer from Heathrow Airport to my hotel.,Transfers
+What tours are available in Rome on 20th August?,Tours
+"I need a flight and hotel package to Paris for 7 days, budget between $1500 and $2500.",Combined_searches
+"I want to book a hotel in Rome from 1st June to 5th June, budget under $150.",Hotel_search
+"Find flights from London to Barcelona, budget under $300.",Flight_search
+"Book a transfer from Heathrow Airport to City Center, arriving at 10 AM.",Transfers
+"Show me popular tours in Paris for 3 days, budget between $400 and $600.",Tours
+"I need a flight and hotel in London from 25th December to 1st January, budget under $3000.",Combined_searches
+"I'm looking for a budget hotel in Rome from 1st July to 7th July, budget under $80.",Hotel_search
+"Find the cheapest flights from Madrid to London, departing on 15th August.",Flight_search
+Book a private airport transfer from Heathrow Airport to City Center.,Transfers
+"What are the best tours in Dubai, budget under $1000?",Tours
+"I need a flight and hotel for my honeymoon in Paris from 1st June to 10th June, budget under $5000.",Combined_searches
+"I want to book a hotel near the beach in Miami, budget under $200.",Hotel_search
+"Find flights from London to New York next week, budget under $800.",Flight_search
+"Book a taxi from Heathrow Airport to City Center, arriving at 5 PM.",Transfers
+"Show me day tours in Rome on 25th July, budget under $150.",Tours
+"I need a flight and hotel for a business trip to Berlin from 12th August to 15th August, budget under $2000.",Combined_searches
+"I'm looking for a luxury hotel in Paris from 20th September to 25th September, budget above $500.",Hotel_search
+"Find direct flights from London to Amsterdam, departing tomorrow, budget under $400.",Flight_search
+Book a shared airport transfer from Heathrow Airport to City Center.,Transfers
+"Show me food tours in Rome on 1st August, budget under $100.",Tours
+"I need a flight and hotel for a weekend getaway in Barcelona from 15th July to 17th July, budget under $1200.",Combined_searches
+"Find flights from New York to Los Angeles, budget under $500.",Flight_search
+"Book a hotel in Barcelona from 2nd August to 9th August, budget under $250.",Hotel_search
+Arrange a transfer to the city center from Heathrow Airport.,Transfers
+"What tours are available in London on 10th September, budget under $300?",Tours
+"I need a flight and hotel in Paris from 5th December to 10th December, budget under $2500.",Combined_searches
+"Find cheap hotels in London, budget under $70.",Hotel_search
+"Book a flight from London to Rome tomorrow, budget under $400.",Flight_search
+Arrange airport pickup from Heathrow Airport.,Transfers
+"What tours are available in Paris on 1st August, budget under $200?",Tours
+"I need a flight and hotel in Madrid from 20th July to 25th July, budget under $1800.",Combined_searches
+"I want to book a hotel in Barcelona from 1st August to 5th August, budget under $120",Hotel_search
+"Find flights from London to Rome next week, budget under $350.",Flight_search
+Book a transfer to the hotel from Heathrow Airport.,Transfers
+"Show me popular tours in London, budget under $400.",Tours
+"I need a flight and hotel in Amsterdam from 10th September to 15th September, budget between $400 and $600.",Combined_searches
+"I'm looking for a budget hotel in Paris, budget under $80.",Hotel_search
+Find the cheapest flights from Rome to London.,Flight_search
+Book a private car transfer from Heathrow Airport to City Center.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight to Paris.,Flight_search
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Tours
+Find flights to Rome next week.,Flight_search
+Query,Intent
+I need a flight to Paris.,Flight_search
+Book a hotel in London.,Hotel_search
+Airport transfer to my hotel.,Transfers
+Show me tours in Rome.,Tours
+I need a flight and a hotel in NY.,Combined_searches
+Find cheap hotels in Paris.,Hotel_search
+Book a flight to London tomorrow.,Flight_search
+Arrange airport transfer.,Transfers
+What tours are available in Rome?,Tours
+What are the best tours in Dubai?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight and hotel in Paris.,Combined_searches
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Rome next week.,Flight_search
+Book a transfer to the hotel.,Transfers
+Show me popular tours in London.,Tours
+I need a flight and hotel in Amsterdam.,Combined_searches
+I'm looking for a budget hotel in Paris.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private car transfer.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight and hotel in Paris.,Combined_searches
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Rome next week.,Flight_search
+Book a transfer to the hotel.,Transfers
+Show me popular tours in London.,Tours
+I need a flight and hotel in Amsterdam.,Combined_searches
+I'm looking for a budget hotel in Paris.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private car transfer.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight from London to Paris.,Flight_search
+"Book a hotel in London for 5 nights, budget under $100.",Hotel_search
+Airport transfer from Heathrow Airport to City Center.,Transfers
+"Show me tours in Rome for 2 days, budget between $100 and $300.",Tours
+"I need a flight and a hotel in NY from 10th July to 15th July, budget under $1500.",Combined_searches
+"Find cheap hotels in Paris, budget below $80.",Hotel_search
+"Book a flight from New York to London tomorrow, budget under $500.",Flight_search
+Arrange airport transfer from Heathrow Airport to my hotel.,Transfers
+What tours are available in Rome on 20th August?,Tours
+"I need a flight and hotel package to Paris for 7 days, budget between $1500 and $2500.",Combined_searches
+"I want to book a hotel in Rome from 1st June to 5th June, budget under $150.",Hotel_search
+"Find flights from London to Barcelona, budget under $300.",Flight_search
+"Book a transfer from Heathrow Airport to City Center, arriving at 10 AM.",Transfers
+"Show me popular tours in Paris for 3 days, budget between $400 and $600.",Tours
+"I need a flight and hotel in London from 25th December to 1st January, budget under $3000.",Combined_searches
+"I'm looking for a budget hotel in Rome from 1st July to 7th July, budget under $80.",Hotel_search
+"Find the cheapest flights from Madrid to London, departing on 15th August.",Flight_search
+Book a private airport transfer from Heathrow Airport to City Center.,Transfers
+"What are the best tours in Dubai, budget under $1000?",Tours
+"I need a flight and hotel for my honeymoon in Paris from 1st June to 10th June, budget under $5000.",Combined_searches
+"I want to book a hotel near the beach in Miami, budget under $200.",Hotel_search
+"Find flights from London to New York next week, budget under $800.",Flight_search
+"Book a taxi from Heathrow Airport to City Center, arriving at 5 PM.",Transfers
+"Show me day tours in Rome on 25th July, budget under $150.",Tours
+"I need a flight and hotel for a business trip to Berlin from 12th August to 15th August, budget under $2000.",Combined_searches
+"I'm looking for a luxury hotel in Paris from 20th September to 25th September, budget above $500.",Hotel_search
+"Find direct flights from London to Amsterdam, departing tomorrow, budget under $400.",Flight_search
+Book a shared airport transfer from Heathrow Airport to City Center.,Transfers
+"Show me food tours in Rome on 1st August, budget under $100.",Tours
+"I need a flight and hotel for a weekend getaway in Barcelona from 15th July to 17th July, budget under $1200.",Combined_searches
+"Find flights from New York to Los Angeles, budget under $500.",Flight_search
+"Book a hotel in Barcelona from 2nd August to 9th August, budget under $250.",Hotel_search
+Arrange a transfer to the city center from Heathrow Airport.,Transfers
+"What tours are available in London on 10th September, budget under $300?",Tours
+"I need a flight and hotel in Paris from 5th December to 10th December, budget under $2500.",Combined_searches
+"Find cheap hotels in London, budget under $70.",Hotel_search
+"Book a flight from London to Rome tomorrow, budget under $400.",Flight_search
+Arrange airport pickup from Heathrow Airport.,Transfers
+"What tours are available in Paris on 1st August, budget under $200?",Tours
+"I need a flight and hotel in Madrid from 20th July to 25th July, budget under $1800.",Combined_searches
+"I want to book a hotel in Barcelona from 1st August to 5th August, budget under $120",Hotel_search
+"Find flights from London to Rome next week, budget under $350.",Flight_search
+Book a transfer to the hotel from Heathrow Airport.,Transfers
+"Show me popular tours in London, budget under $400.",Tours
+"I need a flight and hotel in Amsterdam from 10th September to 15th September, budget between $400 and $600.",Combined_searches
+"I'm looking for a budget hotel in Paris, budget under $80.",Hotel_search
+Find the cheapest flights from Rome to London.,Flight_search
+Book a private car transfer from Heathrow Airport to City Center.,Transfers
+What are the best tours in Rome?,Tours
+I need a flight and hotel for a family vacation.,Combined_searches
+I want to book a hotel near the airport.,Hotel_search
+Find flights to London next month.,Flight_search
+Book a taxi to the hotel.,Transfers
+Show me day tours in London.,Tours
+I need a flight and hotel for a relaxing trip.,Combined_searches
+I need a flight to Tokyo.,Flight_search
+Book a hotel in Berlin.,Hotel_search
+Airport transfer to the city center.,Transfers
+Show me tours in Venice.,Tours
+I need a flight and hotel in Sydney.,Combined_searches
+Find cheap hotels in Rome.,Hotel_search
+Book a flight to Amsterdam tomorrow.,Flight_search
+Arrange airport transportation.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel package to London.,Combined_searches
+I want to book a hotel in Barcelona.,Hotel_search
+Find flights to Madrid.,Flight_search
+Book a transfer from the airport to the hotel.,Transfers
+Show me popular tours in Rome.,Tours
+I need a flight and hotel in Paris.,Combined_searches
+I'm looking for a budget hotel in London.,Hotel_search
+Find the cheapest flights to Rome.,Flight_search
+Book a private airport transfer.,Transfers
+What are the best tours in London?,Tours
+I need a flight and hotel for my honeymoon.,Combined_searches
+I want to book a hotel near the beach.,Hotel_search
+Find flights to New York next week.,Flight_search
+Book a taxi from the airport.,Transfers
+Show me day tours in Rome.,Tours
+I need a flight and hotel for a business trip.,Combined_searches
+I'm looking for a luxury hotel in Paris.,Hotel_search
+Find direct flights to Amsterdam.,Flight_search
+Book a shared airport transfer.,Transfers
+Show me food tours in Rome.,Tours
+I need a flight and hotel for a weekend getaway.,Combined_searches
+Find flights to Los Angeles.,Flight_search
+Book a hotel in Barcelona.,Hotel_search
+Arrange a transfer to the city center.,Transfers
+What tours are available in London?,Tours
+I need a flight to Paris.,Flight_search
+Find cheap hotels in London.,Hotel_search
+Book a flight to Rome tomorrow.,Flight_search
+Arrange airport pickup.,Transfers
+What tours are available in Paris?,Tours
+I need a flight and hotel in Madrid.,Combined_searches
+I want to book a hotel in Barcelona.,Tours
+Find flights to Rome next week.,Flight_search
